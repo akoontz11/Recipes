@@ -1,4 +1,4 @@
-This recipe is a stable. Simple, hearty, and delicious. It goes fantastically with a loath of bread, and is well-suited for cold weather.
+This is a rich and hearty curry
 
 #### Ingredients
 - Large yellow onion, diced
